@@ -1,0 +1,4 @@
+# temp files & IDE settings
+*.pyc
+.idea
+
